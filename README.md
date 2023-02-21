@@ -76,3 +76,11 @@ export PATH=$PATH:/★パス★
 ```shell
 az login
 ```
+
+## 自分用メモ
+
+### `VS Code`でのアカウントの切り替え
+
+`F1`を押して、`Azure: Sign Out`を選択します。  
+続けて、`Azure: Sign In`を選択します。  
+これで、アカウントの切り替えができます。  

@@ -1,0 +1,3 @@
+project_name = "simple-azure-func"
+storage_account_name = "simple-azure-func-my-storage-1025"
+function_app_name = "simple-azure-func-my-func-1025"

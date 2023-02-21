@@ -1,6 +1,6 @@
 # simple-AzureFunctions.az.tf
 
-💐💐💐 Azure上にAzure Functionsを構築するためのTerraformのサンプルです。  
+🌿🌿🌿 Azure上にAzure Functionsを構築するためのTerraformのサンプルです。  
 
 ## 環境情報
 
